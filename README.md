@@ -11,7 +11,7 @@ penetrates Walls, Enemys, and shields.
 100% chance to penetrate armor.
 Goes in mods folder.
 ___________________________________
-Personal Weapon Tweaks
+Better Weapons
 Small tweaks to:
 SAW.
 RPG.
