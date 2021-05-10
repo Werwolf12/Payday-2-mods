@@ -21,4 +21,5 @@ Galant.
 Little Friend.
 Microgun.
 Vulkan minigun.
+Both Regular and Akimbo Deagles
 (More in the future)
