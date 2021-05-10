@@ -3,7 +3,6 @@ Some joke and serius mods that i make
 ALL MODS HERE GO INTO MODS FOLDER
 ___________________________________
 1-Shot Deagle
-THIS IS A MEME MOD, ONLY USE IT IN OFFLINE
 This mod changes the deagle to 1 shot all enemys
 Changed stats
 1 bullet mag.
