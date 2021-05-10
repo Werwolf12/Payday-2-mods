@@ -1,5 +1,5 @@
 # Payday-2-mods
-Some joke and serius mods that i make
+Some mods that i made
 ALL MODS HERE GO INTO MODS FOLDER
 ___________________________________
 1-Shot Deagle
